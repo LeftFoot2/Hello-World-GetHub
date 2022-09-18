@@ -2,9 +2,9 @@
 
 This is a simple Hello World program to test publication to GitHub.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Here is a video to watch.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World](https://youtu.be/rz-IIgGm2HE)
 
 # Development Environment
 
@@ -16,6 +16,5 @@ Python 3.10.4 64-bit
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Version Control](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Working With GitHub](https://code.visualstudio.com/docs/editor/github)
